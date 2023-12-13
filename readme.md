@@ -10,6 +10,7 @@ Needed to download multiple audio for testing, didn't find easly something that 
 
 ## Table of Contents
 
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Future Version](#future-version)
@@ -28,7 +29,7 @@ npm install
 Simply run the nodeJS file giving url of a Youtube video / playlist:
 
 ```bash
-node index "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+node index.js "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 ```
 
 **⚠️ You should only download content for which you have the right to do so!**
